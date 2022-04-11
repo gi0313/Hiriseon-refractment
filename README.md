@@ -1,4 +1,4 @@
-# Hiriseon-refractment
+# Horiseon-refractment
 
 My refractment of the Horiseon website
 
